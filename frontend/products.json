@@ -1,0 +1,185 @@
+{
+  "mobiles": [
+    {
+      "title": "iPhone 17 Pro Max",
+      "search": "iPhone 17 Pro Max 256GB",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-15-pro-max.jpg"
+    },
+    {
+      "title": "Samsung S25 Ultra",
+      "search": "Samsung S25 Ultra 12GB 256GB",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s24-ultra-5g-sm-s928.jpg"
+    },
+    {
+      "title": "OnePlus 13",
+      "search": "OnePlus 13 12GB 256GB",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-12.jpg"
+    },
+    {
+      "title": "Google Pixel 9 Pro",
+      "search": "Google Pixel 9 Pro 12GB 256GB",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-8-pro.jpg"
+    },
+    {
+      "title": "Nothing Phone 2",
+      "search": "Nothing Phone 2 12GB 256GB",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-phone2.jpg"
+    },
+    {
+      "title": "Xiaomi 14 Ultra",
+      "search": "Xiaomi 14 Ultra 16GB 512GB",
+      "image": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-14-ultra-1.jpg"
+    },
+    {
+      "title": "iQOO 13",
+      "search": "iQOO 13 12GB 256GB",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "title": "Realme GT 7 Pro",
+      "search": "Realme GT 7 Pro 12GB 256GB",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/realme-gt5-pro.jpg"
+    },
+    {
+      "title": "Moto Edge 50 Pro",
+      "search": "Moto Edge 50 Pro 12GB 256GB",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-edge-50-pro.jpg"
+    },
+    {
+      "title": "OPPO Find X8",
+      "search": "OPPO Find X8 12GB 256GB",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-find-x7-ultra.jpg"
+    },
+    {
+      "title": "POCO X7 Pro",
+      "search": "POCO X7 Pro 12GB 256GB",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x6-pro.jpg"
+    },
+    {
+      "title": "Samsung A55",
+      "search": "Samsung A55 8GB 256GB",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a55.jpg"
+    },
+    {
+      "title": "OnePlus Nord 4",
+      "search": "OnePlus Nord 4 8GB 256GB",
+      "image": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord4-1.jpg"
+    },
+    {
+      "title": "Vivo V40 Pro",
+      "search": "Vivo V40 Pro 12GB 256GB",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-v40-pro.jpg"
+    },
+    {
+      "title": "Redmi Note 14 Pro",
+      "search": "Redmi Note 14 Pro 8GB 256GB",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-13-pro.jpg"
+    }
+  ],
+
+  "laptops": [
+    {
+      "title": "MacBook Air M4",
+      "search": "MacBook Air M4 16GB 512GB",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "title": "MacBook Pro M4",
+      "search": "MacBook Pro M4 16GB 1TB",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "title": "ASUS ROG Strix G16",
+      "search": "ASUS ROG Strix G16 RTX 4060",
+      "image": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "title": "Lenovo LOQ",
+      "search": "Lenovo LOQ RTX 4050",
+      "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "title": "HP Omen 16",
+      "search": "HP Omen 16 RTX 4060",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "title": "Dell G15",
+      "search": "Dell G15 RTX 4050",
+      "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "title": "Acer Predator Helios Neo 16",
+      "search": "Acer Predator Helios Neo 16 RTX 4060",
+      "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "title": "ASUS TUF F15",
+      "search": "ASUS TUF F15 RTX 4050",
+      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "title": "MSI Katana 15",
+      "search": "MSI Katana 15 RTX 4060",
+      "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "title": "Lenovo Legion 5",
+      "search": "Lenovo Legion 5 RTX 4060",
+      "image": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1200&auto=format&fit=crop"
+    }
+  ],
+
+  "tablets": [
+    {
+      "title": "iPad Pro M4",
+      "search": "iPad Pro M4 256GB",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-13-2024.jpg"
+    },
+    {
+      "title": "iPad Air M2",
+      "search": "iPad Air M2 128GB",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-air-13-2024.jpg"
+    },
+    {
+      "title": "Samsung Tab S10 Ultra",
+      "search": "Samsung Tab S10 Ultra",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s9-ultra.jpg"
+    },
+    {
+      "title": "Xiaomi Pad 7",
+      "search": "Xiaomi Pad 7",
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "title": "OnePlus Pad 2",
+      "search": "OnePlus Pad 2",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-pad2.jpg"
+    },
+    {
+      "title": "Lenovo Tab P12",
+      "search": "Lenovo Tab P12",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-p12.jpg"
+    },
+    {
+      "title": "Samsung Tab S9 FE",
+      "search": "Samsung Tab S9 FE",
+      "image": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "title": "Redmi Pad Pro",
+      "search": "Redmi Pad Pro",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pad-pro.jpg"
+    },
+    {
+      "title": "Realme Pad 2",
+      "search": "Realme Pad 2",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/realme-pad2.jpg"
+    },
+    {
+      "title": "Honor Pad 9",
+      "search": "Honor Pad 9",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-pad9.jpg"
+    }
+  ]
+}

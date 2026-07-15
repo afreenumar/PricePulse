@@ -24,3 +24,14 @@ frontend/
 - style.css
 - app.js
 - products.json
+
+## Team Project
+
+This project was developed as part of a collaborative team effort. Team members contributed to different aspects of the application, including frontend, backend, database integration, and testing.
+
+## My Contribution
+
+- Assisted in developing and testing application features.
+- Worked with the project codebase using Visual Studio Code and GitHub.
+- Contributed to project integration and debugging.
+- Participated in project documentation and version control.

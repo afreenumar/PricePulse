@@ -27,11 +27,16 @@ frontend/
 
 ## Team Project
 
-This project was developed as part of a collaborative team effort. Team members contributed to different aspects of the application, including frontend, backend, database integration, and testing.
+PricePulse was developed as a collaborative team project. Each team member independently developed a complete implementation of the application. After evaluation, the version with automated real-time price retrieval was selected as the final project.
 
 ## My Contribution
 
-- Assisted in developing and testing application features.
-- Worked with the project codebase using Visual Studio Code and GitHub.
-- Contributed to project integration and debugging.
-- Participated in project documentation and version control.
+- Independently designed and developed a complete version of the PricePulse application from scratch.
+- Built the frontend and integrated the backend components for product comparison.
+- Implemented product search and comparison functionality using manually maintained product price data to demonstrate the application's workflow.
+- Contributed to project testing, debugging, and overall feature validation.
+
+## Teammate's Contribution
+
+- Developed the final implementation for automated real-time price retrieval from supported e-commerce websites.
+- Integrated dynamic web scraping functionality into the final project version.
